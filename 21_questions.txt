@@ -20,8 +20,8 @@ Write your yes/no question on each line, then check the host's answer.
  3. A: [x] Yes  [ ] No   Q: Is the object a solid?
  4. A: [ ] Yes  [x] No   Q: Is it a ball
  5. A: [ ] Yes  [x] No   Q: Is the object used for sports
- 6. A: [ ] Yes  [x] No   Q: Is it a spare 
- 7. A: [ ] Yes  [ ] No   Q: 
+ 6. A: [ ] Yes  [x] No   Q: Is it a sphere
+ 7. A: [ ] Yes  [ ] No   Q: Does this item have electronics
  8. A: [ ] Yes  [ ] No   Q: 
  9. A: [ ] Yes  [ ] No   Q: 
 10. A: [ ] Yes  [ ] No   Q: 
