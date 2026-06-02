@@ -22,7 +22,7 @@ Write your yes/no question on each line, then check the host's answer.
  5. A: [ ] Yes  [x] No   Q: Is the object used for sports
  6. A: [ ] Yes  [x] No   Q: Is it a sphere
  7. A: [ ] Yes  [x] No   Q: Does this item have electronics
- 8. A: [ ] Yes  [ ] No   Q: Is the object made out if iron
+ 8. A: [ ] Yes  [x] No   Q: Is the object made out of iron
  9. A: [ ] Yes  [ ] No   Q: 
 10. A: [ ] Yes  [ ] No   Q: 
 11. A: [ ] Yes  [ ] No   Q: 
