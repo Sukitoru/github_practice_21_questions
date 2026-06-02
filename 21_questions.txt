@@ -28,7 +28,7 @@ Write your yes/no question on each line, then check the host's answer.
 11. A: [x] Yes  [ ] No   Q: Is this object edible
 12. A: [ ] Yes  [x] No   Q: Is the object cakepops
 13. A: [x] Yes  [ ] No   Q: Is the food from the western hemisphere
-14. A: [ ] Yes  [ ] No   Q: Is the food spicy
+14. A: [ ] Yes  [x] No   Q: Is the food spicy
 15. A: [ ] Yes  [ ] No   Q: 
 16. A: [ ] Yes  [ ] No   Q: 
 17. A: [ ] Yes  [ ] No   Q: 
