@@ -35,14 +35,14 @@ Write your yes/no question on each line, then check the host's answer.
 18. A: [ ] Yes  [x] No   Q: Is it a lolipop
 19. A: [ ] Yes  [x] No   Q: Is the food usually cold
 20. A: [ ] Yes  [x] No   Q: Is it grapes 
-21. A: [ ] Yes  [ ] No   Q: Is it a mango
+21. A: [x] Yes  [ ] No   Q: Is it a mango
 
 
 ------------------------------------------
               FINAL GUESS
 ------------------------------------------
-My guess is: ______________________________________
+My guess is: ___________Mango________________
 
-RESULT:  [ ] Correct!   [ ] Incorrect
+RESULT:  [x] Correct!   [ ] Incorrect
 
-THE SECRET WAS (host reveals): ____________________________
+THE SECRET WAS (host reveals): ________Mango________
