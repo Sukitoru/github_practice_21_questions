@@ -24,7 +24,7 @@ Write your yes/no question on each line, then check the host's answer.
  7. A: [ ] Yes  [x] No   Q: Does this item have electronics
  8. A: [ ] Yes  [x] No   Q: Is the object made out of iron
  9. A: [ ] Yes  [x] No   Q: Is the object larger than a shiba inu
-10. A: [ ] Yes  [ ] No   Q: Is the object ftom a show 
+10. A: [ ] Yes  [x] No   Q: Is the object from a show 
 11. A: [ ] Yes  [ ] No   Q: 
 12. A: [ ] Yes  [ ] No   Q: 
 13. A: [ ] Yes  [ ] No   Q: 
