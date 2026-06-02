@@ -31,7 +31,7 @@ Write your yes/no question on each line, then check the host's answer.
 14. A: [ ] Yes  [x] No   Q: Is the food spicy
 15. A: [ ] Yes  [x] No   Q: Does the food originate from the United States of America
 16. A: [x] Yes  [ ] No   Q: Is the food sweet
-17. A: [ ] Yes  [ ] No   Q: Is the method of consumption through licking
+17. A: [ ] Yes  [x] No   Q: Is the method of consumption through licking
 18. A: [ ] Yes  [ ] No   Q: 
 19. A: [ ] Yes  [ ] No   Q: 
 20. A: [ ] Yes  [ ] No   Q: 
