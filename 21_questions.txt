@@ -2,7 +2,7 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): ___Hao Bin Zhu_/ Nicholas Carter__
+PLAYER (the one asking questions): ___Hao Bin Zhu___
 HOST   (the one with the secret):  __Jordan Hinojosa___
 DATE:                              _6/2/2026_
 
@@ -15,34 +15,34 @@ SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [x] Thing  [ ] Animal
 ------------------------------------------
 Write your yes/no question on each line, then check the host's answer.
 
- 1. A: [ ] Yes  [x] No   Q: Is it made of a hard material?
- 2. A: [ ] Yes  [x] No   Q: IS it tiny ?
- 3. A: [x] Yes  [ ] No   Q: Is the object a solid?
- 4. A: [ ] Yes  [x] No   Q: Is it a ball
- 5. A: [ ] Yes  [x] No   Q: Is the object used for sports
- 6. A: [ ] Yes  [x] No   Q: Is it a sphere
- 7. A: [ ] Yes  [x] No   Q: Does this item have electronics
- 8. A: [ ] Yes  [x] No   Q: Is the object made out of iron
- 9. A: [ ] Yes  [x] No   Q: Is the object larger than a shiba inu
-10. A: [ ] Yes  [x] No   Q: Is the object from a show 
-11. A: [x] Yes  [ ] No   Q: Is this object edible
-12. A: [ ] Yes  [x] No   Q: Is the object cakepops
-13. A: [x] Yes  [ ] No   Q: Is the food from the western hemisphere
-14. A: [ ] Yes  [x] No   Q: Is the food spicy
-15. A: [ ] Yes  [x] No   Q: Does the food originate from the United States of America
-16. A: [x] Yes  [ ] No   Q: Is the food sweet
-17. A: [ ] Yes  [x] No   Q: Is the method of consumption through licking
-18. A: [ ] Yes  [x] No   Q: Is it a lolipop
-19. A: [ ] Yes  [x] No   Q: Is the food usually cold
-20. A: [ ] Yes  [x] No   Q: Is it grapes 
-21. A: [x] Yes  [ ] No   Q: Is it a mango
+ 1. A: [ ] Yes  [ ] No   Q: 
+ 2. A: [ ] Yes  [ ] No   Q:
+ 3. A: [ ] Yes  [ ] No   Q: 
+ 4. A: [ ] Yes  [ ] No   Q:
+ 5. A: [ ] Yes  [ ] No   Q: 
+ 6. A: [ ] Yes  [ ] No   Q: 
+ 7. A: [ ] Yes  [ ] No   Q: 
+ 8. A: [ ] Yes  [ ] No   Q: 
+ 9. A: [ ] Yes  [ ] No   Q: 
+10. A: [ ] Yes  [ ] No   Q: 
+11. A: [ ] Yes  [ ] No   Q: 
+12. A: [ ] Yes  [ ] No   Q: 
+13. A: [ ] Yes  [ ] No   Q: 
+14. A: [ ] Yes  [ ] No   Q: 
+15. A: [ ] Yes  [ ] No   Q: 
+16. A: [ ] Yes  [ ] No   Q: 
+17. A: [ ] Yes  [ ] No   Q: 
+18. A: [ ] Yes  [ ] No   Q: 
+19. A: [ ] Yes  [ ] No   Q: 
+20. A: [ ] Yes  [ ] No   Q: 
+21. A: [ ] Yes  [ ] No   Q: 
 
 
 ------------------------------------------
               FINAL GUESS
 ------------------------------------------
-My guess is: ___________Mango________________
+My guess is: ______________________________________
 
-RESULT:  [x] Correct!   [ ] Incorrect
+RESULT:  [ ] Correct!   [ ] Incorrect
 
-THE SECRET WAS (host reveals): ________Mango________
+THE SECRET WAS (host reveals): ____________________________
