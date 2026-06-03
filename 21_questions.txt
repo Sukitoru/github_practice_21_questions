@@ -2,9 +2,9 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): ___Hao Bin Zhu___
-HOST   (the one with the secret):  __Jordan Hinojosa___
-DATE:                              _6/2/2026_
+PLAYER (the one asking questions): ___Jordan Hinojosa Nicholas Carter___
+HOST   (the one with the secret):  __Hao Bin Zhu ___
+DATE:                              _6/3/2026_
 
 
 SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [x] Thing  [ ] Animal
